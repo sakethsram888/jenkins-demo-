@@ -55,7 +55,7 @@ pipeline {
             steps {
                 echo 'Stage: Deploy to Production'
                 echo 'Tool: AWS EC2'
-                echo 'Action: Deploy the application to a production server. '
+                echo 'Action: Deploy the application to a production server.'
             }
         }
     }
